@@ -1,11 +1,11 @@
 # Phillip Dyson's Arcade Game
 
-##Introduction
+## Introduction
 This is Project 3 of my Front-End Web Development Nano Degree Course by Udacity.
 Project 3 consist of the student to re-create the classic arcade game "Frogger" 
 by using javascript.
 
-##How To Play
+## How To Play
 
 1.Open the "index.html" to your default web browser.
 2.Use the Arrow keys on your keyboard to move the character on the deifferent tiles.
