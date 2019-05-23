@@ -8,10 +8,8 @@ by using javascript.
 ## How To Play
 
 1.Open the "index.html" to your default web browser.
-2.Use the Arrow keys on your keyboard to move the character on the deifferent tiles.
 
-   ↑
-←  ↓  →
+2.Use the Arrow keys on your keyboard to move the character on the deifferent tiles.
 
 3.Have the character reach to the top of the level on the water to complete the game, 
 whilst avoiding the nasty bugs from touching the character.
